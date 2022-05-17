@@ -7,7 +7,7 @@ To start the application:
 
     2.Open browser and enter url localhost:8080
 
-    3.Login with username: user and pass: password
+    3.Login with username: user and pass: password (after the npm start)
 
 ### Part 2. ( Server )
         - mvn spring-boot:run (in the springServer folder)
